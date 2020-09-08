@@ -1,0 +1,19 @@
+enable    : true
+topTitle   : LEARN A LITTLE MORE
+title     : About Us.
+subtitle  : >
+  We are a team of experienced practicing educators, developers, IT security professionals, architects and engineers with a shared vision. To take our skills and knowlege in IT and bring those concepts to the digital learning and edtech space.  
+tabItem   :
+  - id        : vision
+    title     : Our Vision
+    heading   : To be inclusive by enabling anyone the ability to learn and teach others.
+    content   : >
+      Our vision at Extreme Value is to have a portfolio of solutions that enable and helps everyone that wants to learn and create content. It is important for us as a minority and veteran owned company to support everyone if their desire is to be a life long learner. <br> <br> Finding opportunities for minorities, women in technology and honorably discharged military vets is very important to us.
+    image     : images/company/inclusive.jpg
+
+  - id        : mission
+    title     : Mission
+    heading   : Our Mission
+    content   : >
+      At Extreme Value our mission is to take leading edge technology to create end-to-end holisitc solutions to disrupt the edtech space. <br> <br> Combining amazing technology with fresh ideas to unlock the ability for everyone to learn and author digital learning content.
+    image     : images/company/mission.jpg
