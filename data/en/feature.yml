@@ -1,0 +1,16 @@
+enable  : false
+item  :
+  - icon  : tf-ion-ios-copy-outline
+    title : EV Labs
+    description : >
+      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon  : tf-ion-ios-alarm-outline
+    title : EV Training
+    description : >
+      Our team of technology experts have broad industry experience working in a wide range of technical disciplines.  As active practitioners, we know what works, and can help you avoid what doesn't. Based upon your desired objectives, we can perform an assessment of your current skills and capabilities, identify gaps, and establish a plan to help you achieve your goal.
+
+  - icon  : tf-ion-ios-book-outline
+    title : Media & Advertisement
+    description : >
+      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.

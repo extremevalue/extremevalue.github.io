@@ -1,0 +1,13 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : images/about/glowing-keyboard.jpg
+    title : EV Labs
+    description : >
+      The EV innovation lab is focused on building great experiences, rather than just building tools. Understanding the challenges and needs of our customers to deliver complete solutions to solve them. Driven by technologists and educators who are commited to cultivating new innovative ideas.
+
+  - positionRight : true
+    image : images/about/woman-at-board.jpg
+    title : EV Training
+    description : >
+      We provide technical training that has been optimized to help you achieve concrete outcomes.  Our courses are designed to be informative, entertaining and engaging as well as interactive. All of our trainers are active practitioners and have extensive experience in their domains.
