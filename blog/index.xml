@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ENGLISH Blog on Training and Digital Education Content at the Next Level</title>
+    <title>ENGLISH Blog on Technical Consulting Training and Digital Education at the Next Level</title>
     <link>https://extremevalue.io/blog/</link>
-    <description>Recent content in ENGLISH Blog on Training and Digital Education Content at the Next Level</description>
+    <description>Recent content in ENGLISH Blog on Technical Consulting Training and Digital Education at the Next Level</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jul 2018 18:23:33 +0600</lastBuildDate>
-    
-	<atom:link href="https://extremevalue.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 07 Jul 2018 18:23:33 +0600</lastBuildDate><atom:link href="https://extremevalue.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog Photos on Phone</title>
       <link>https://extremevalue.io/blog/blog-photos-on-phone/</link>
