@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technical Consulting Training and Digital Education at the Next Level</title>
-    <link>https://extremevalue.io/</link>
-    <description>Recent content on Technical Consulting Training and Digital Education at the Next Level</description>
+    <title>Posts on Technical Consulting Training and Digital Education at the Next Level</title>
+    <link>https://extremevalue.io/posts/</link>
+    <description>Recent content in Posts on Technical Consulting Training and Digital Education at the Next Level</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jul 2018 15:53:27 +0600</lastBuildDate><atom:link href="https://extremevalue.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://extremevalue.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World TEST!</title>
       <link>https://extremevalue.io/posts/hello-world/</link>
