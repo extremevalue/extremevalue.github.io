@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Training and Digital Education Content at the Next Level</title>
+    <title>Technical Consulting Training and Digital Education at the Next Level</title>
     <link>https://extremevalue.io/</link>
-    <description>Recent content on Training and Digital Education Content at the Next Level</description>
+    <description>Recent content on Technical Consulting Training and Digital Education at the Next Level</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jul 2018 12:22:40 +0600</lastBuildDate>
-    
-	<atom:link href="https://extremevalue.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 08 Jul 2018 12:22:40 +0600</lastBuildDate><atom:link href="https://extremevalue.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog Photos on Phone</title>
       <link>https://extremevalue.io/blog/blog-photos-on-phone/</link>
@@ -90,6 +86,15 @@
       
       <guid>https://extremevalue.io/blog/ten-things-about-business/</guid>
       <description>Introduction Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Hello, World TEST!</title>
+      <link>https://extremevalue.io/posts/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://extremevalue.io/posts/hello-world/</guid>
+      <description>Hello World testes! Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     
   </channel>
