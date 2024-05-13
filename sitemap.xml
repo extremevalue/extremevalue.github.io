@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://extremevalue.io/contact/</loc>
-    <lastmod>2018-07-07T15:53:27+06:00</lastmod>
-  </url><url>
-    <loc>https://extremevalue.io/</loc>
-    <lastmod>2018-07-07T15:53:27+06:00</lastmod>
-  </url><url>
-    <loc>https://extremevalue.io/portfolio/</loc>
-    <lastmod>2018-07-07T15:45:06+06:00</lastmod>
-  </url><url>
-    <loc>https://extremevalue.io/service/</loc>
-    <lastmod>2018-07-07T14:53:13+06:00</lastmod>
-  </url><url>
-    <loc>https://extremevalue.io/about/</loc>
-    <lastmod>2018-07-07T12:37:52+06:00</lastmod>
-  </url><url>
-    <loc>https://extremevalue.io/categories/</loc>
-  </url><url>
-    <loc>https://extremevalue.io/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://extremevalue.io/en/sitemap.xml</loc>
+    
+      <lastmod>2018-07-07T15:53:27+06:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

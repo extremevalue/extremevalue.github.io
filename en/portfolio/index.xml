@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Extreme Value is an technology consulting group that employs best practices to help our clients realize positive outcomes.</title>
+    <link>https://extremevalue.io/en/portfolio/</link>
+    <description>Recent content in Portfolio on Extreme Value is an technology consulting group that employs best practices to help our clients realize positive outcomes.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jul 2018 15:45:06 +0600</lastBuildDate>
+    <atom:link href="https://extremevalue.io/en/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FRANCAIS Portfolio</title>
+      <link>https://extremevalue.io/en/portfolio/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 15:45:06 +0600</pubDate>
+      <guid>https://extremevalue.io/en/portfolio/_index.fr/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

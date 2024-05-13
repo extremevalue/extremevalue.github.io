@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Us ... on Extreme Value is an technology consulting group that employs best practices to help our clients realize positive outcomes.</title>
+    <link>https://extremevalue.io/en/about/</link>
+    <description>Recent content in About Us ... on Extreme Value is an technology consulting group that employs best practices to help our clients realize positive outcomes.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate>
+    <atom:link href="https://extremevalue.io/en/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A propos de nous ...</title>
+      <link>https://extremevalue.io/en/about/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 12:37:52 +0600</pubDate>
+      <guid>https://extremevalue.io/en/about/_index.fr/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
