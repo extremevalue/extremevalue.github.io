@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Services on Extreme Value is an technology consulting group that employs best practices to help our clients realize extraordinary outcomes.</title>
-    <link>http://localhost:1313/en/service/</link>
+    <link>https://extremevalue.io/en/service/</link>
     <description>Recent content in Our Services on Extreme Value is an technology consulting group that employs best practices to help our clients realize extraordinary outcomes.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jul 2018 14:53:13 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/service/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://extremevalue.io/en/service/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FRANCAIS Our Services</title>
-      <link>http://localhost:1313/en/service/_index.fr/</link>
+      <link>https://extremevalue.io/en/service/_index.fr/</link>
       <pubDate>Sat, 07 Jul 2018 14:53:13 +0600</pubDate>
-      <guid>http://localhost:1313/en/service/_index.fr/</guid>
+      <guid>https://extremevalue.io/en/service/_index.fr/</guid>
       <description></description>
     </item>
   </channel>

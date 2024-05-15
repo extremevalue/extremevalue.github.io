@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Extreme Value is an technology consulting group that employs best practices to help our clients realize extraordinary outcomes.</title>
-    <link>http://localhost:1313/en/categories/</link>
+    <link>https://extremevalue.io/en/categories/</link>
     <description>Recent content in Categories on Extreme Value is an technology consulting group that employs best practices to help our clients realize extraordinary outcomes.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://extremevalue.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
