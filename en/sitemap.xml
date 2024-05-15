@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://extremevalue.io/en/contact/</loc>
+    <loc>http://localhost:1313/en/contact/</loc>
     <lastmod>2018-07-07T15:53:27+06:00</lastmod>
   </url><url>
-    <loc>https://extremevalue.io/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2018-07-07T15:53:27+06:00</lastmod>
   </url><url>
-    <loc>https://extremevalue.io/en/contact/_index.fr/</loc>
+    <loc>http://localhost:1313/en/contact/_index.fr/</loc>
     <lastmod>2018-07-07T15:53:27+06:00</lastmod>
   </url><url>
-    <loc>https://extremevalue.io/en/portfolio/_index.fr/</loc>
+    <loc>http://localhost:1313/en/portfolio/_index.fr/</loc>
     <lastmod>2018-07-07T15:45:06+06:00</lastmod>
   </url><url>
-    <loc>https://extremevalue.io/en/portfolio/</loc>
+    <loc>http://localhost:1313/en/portfolio/</loc>
     <lastmod>2018-07-07T15:45:06+06:00</lastmod>
   </url><url>
-    <loc>https://extremevalue.io/en/service/_index.fr/</loc>
+    <loc>http://localhost:1313/en/service/_index.fr/</loc>
     <lastmod>2018-07-07T14:53:13+06:00</lastmod>
   </url><url>
-    <loc>https://extremevalue.io/en/service/</loc>
+    <loc>http://localhost:1313/en/service/</loc>
     <lastmod>2018-07-07T14:53:13+06:00</lastmod>
   </url><url>
-    <loc>https://extremevalue.io/en/about/_index.fr/</loc>
+    <loc>http://localhost:1313/en/about/_index.fr/</loc>
     <lastmod>2018-07-07T12:37:52+06:00</lastmod>
   </url><url>
-    <loc>https://extremevalue.io/en/about/</loc>
+    <loc>http://localhost:1313/en/about/</loc>
     <lastmod>2018-07-07T12:37:52+06:00</lastmod>
   </url><url>
-    <loc>https://extremevalue.io/en/categories/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
   </url><url>
-    <loc>https://extremevalue.io/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
   </url>
 </urlset>
